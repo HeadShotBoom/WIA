@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3- Drawing-States.htm" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3- Drawing-States.htm">
+      <file leaf-file-name="4-Drawing-Paths.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="38" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.7479224" vertical-offset="0" max-vertical-offset="885">
+            <state line="27" column="43" selection-start="856" selection-end="856" vertical-scroll-proportion="0.5609418" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/1-First Canvas Document.html" />
         <option value="$PROJECT_DIR$/2-Drawing Lines.htm" />
         <option value="$PROJECT_DIR$/3- Drawing-States.htm" />
+        <option value="$PROJECT_DIR$/4-Drawing-Paths.htm" />
       </list>
     </option>
   </component>
@@ -170,7 +171,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3- Drawing-States.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="38" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.7479224" vertical-offset="0" max-vertical-offset="885">
+        <state line="16" column="48" selection-start="464" selection-end="464" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="43" selection-start="856" selection-end="856" vertical-scroll-proportion="0.5609418" vertical-offset="0" max-vertical-offset="750">
           <folding />
         </state>
       </provider>

@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="4-Drawing-Paths.htm" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
+      <file leaf-file-name="5-Drawing-Arcs.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="43" selection-start="856" selection-end="856" vertical-scroll-proportion="0.5609418" vertical-offset="0" max-vertical-offset="750">
+            <state line="15" column="24" selection-start="356" selection-end="356" vertical-scroll-proportion="0.31163436" vertical-offset="0" max-vertical-offset="722">
               <folding />
             </state>
           </provider>
@@ -178,7 +178,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="43" selection-start="856" selection-end="856" vertical-scroll-proportion="0.5609418" vertical-offset="0" max-vertical-offset="750">
+        <state line="20" column="40" selection-start="558" selection-end="558" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="356" selection-end="356" vertical-scroll-proportion="0.31163436" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>

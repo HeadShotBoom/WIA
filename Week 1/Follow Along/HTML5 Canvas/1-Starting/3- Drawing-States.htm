@@ -13,7 +13,33 @@
 				if (theCanvas && theCanvas.getContext) {
 					var ctx = theCanvas.getContext("2d");
 					if (ctx) {
-						
+						//Setup some basic drawing information
+                        ctx.strokeStyle = 'red';
+                        ctx.fillStyle = 'yellow';
+                        ctx.lineWidth = 10;
+
+                        //save our settings
+                        ctx.save();
+
+                        //draw a rectangle
+                        ctx.fillRect(25,25,100,125);
+                        ctx.strokeRect(25,25,100,125);
+
+                        //draw another rectangle with different settings
+                        ctx.strokeStyle = 'green';
+                        ctx.fillStyle = 'blue';
+                        ctx.lineWidth =5;
+
+                        ctx.fillRect(175,25,100,125);
+                        ctx.strokeRect(175,25,100,125);
+
+                        //restore drawing state from saved settings above
+                        ctx.restore();
+
+                        //draw a third rectangle
+                        ctx.fillRect(325,25,100,125);
+                        ctx.strokeRect(325,25,100,125);
+
 					}
 				}
 			}

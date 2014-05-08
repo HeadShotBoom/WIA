@@ -191,7 +191,18 @@ Reminder to use the drawImage method for all 3 of the ways.
 ********************************************/
 
 //Draw images here
+if(theCanvas6 && theCanvas6.getContext){
+    var ctx6 = theCanvas6.getContext('2d');
+    if(ctx6){
 
+        var srcImg = document.getElementById('img1');
+
+        ctx6.drawImage(srcImg, 0,0);
+        ctx6.drawImage(srcImg, 0,0,330, 108);
+        ctx6.drawImage(srcImg, 485,540,395,440,400,0,330,108);
+
+    }
+}
 
 
 /*******************************************

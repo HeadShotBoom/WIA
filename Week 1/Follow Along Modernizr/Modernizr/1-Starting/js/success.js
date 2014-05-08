@@ -1,0 +1,1 @@
+console.log('The New Date Picker is Supported');

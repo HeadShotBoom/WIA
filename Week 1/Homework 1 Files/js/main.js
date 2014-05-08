@@ -236,7 +236,12 @@ You must use at least 3 different methods.
                 ctx7.stroke();
                     i++;
             },10);
-
+            var theString = "Bringing It All Together";
+            ctx7.font = '28pt Verdana';
+            ctx7.fillStyle = 'blue';
+            ctx7.strokeStyle = "rgba(0,0,0,1)";
+            ctx7.fillText(theString, 180, 380);
+            ctx7.strokeText(theString, 180, 380);
         }
     }
 

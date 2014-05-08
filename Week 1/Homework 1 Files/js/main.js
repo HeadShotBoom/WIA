@@ -221,23 +221,20 @@ You must use at least 3 different methods.
     if(theCanvas7 && theCanvas7.getContext){
         var ctx7 = theCanvas7.getContext('2d');
         if(ctx7){
-
+                i=0;
+            ctx7.drawImage(srcImg,(theCanvas7.width/2)-165, (theCanvas7.height/2)-84, 330,108);
                 setInterval(function(){
-                ctx7.clearRect(0,0,ctx7.width,ctx7.height);
-                ctx7.drawImage(srcImg,(theCanvas7.width/2)-165, (theCanvas7.height/2)-54, 330,108);
-
-                var degrees = 0;
-                    while(degrees<360){
-                        degrees += 1;
+                var degrees = i;
+                degrees += 1;
                 var radians = (degrees/180)*Math.PI;
                 ctx7.fillStyle = 'rgba(100,0,0,0.0)';
                 ctx7.strokeStyle = 'black';
                 ctx7.lineWidth = 10;
                 ctx7.beginPath();
-                ctx7.arc(theCanvas7.width/2,theCanvas7.height/2,160,0,radians,false);
+                ctx7.arc(theCanvas7.width/2,theCanvas7.height/2-25,160,0,radians,false);
                 ctx7.fill();
                 ctx7.stroke();
-                    }
+                    i++;
             },10);
 
         }

@@ -47,6 +47,9 @@
         <option value="$PROJECT_DIR$/js/Images.js" />
         <option value="$PROJECT_DIR$/js/Clipping.js" />
         <option value="$PROJECT_DIR$/js/Clipping2.js" />
+        <option value="$PROJECT_DIR$/js/Translate.js" />
+        <option value="$PROJECT_DIR$/js/Scale.js" />
+        <option value="$PROJECT_DIR$/js/Rotate.js" />
       </list>
     </option>
   </component>
@@ -343,6 +346,48 @@
     <entry file="file://$PROJECT_DIR$/13-Clipping2.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Translate.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Translate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="413" selection-end="413" vertical-scroll-proportion="0.22117962" vertical-offset="0" max-vertical-offset="746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-Scale.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Scale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="372" selection-end="372" vertical-scroll-proportion="0.2613941" vertical-offset="0" max-vertical-offset="746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-Rotate.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Rotate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="535" selection-end="535" vertical-scroll-proportion="0.40214476" vertical-offset="0" max-vertical-offset="746">
           <folding />
         </state>
       </provider>

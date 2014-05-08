@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/js/Shadows.js" />
         <option value="$PROJECT_DIR$/js/Patterns.js" />
         <option value="$PROJECT_DIR$/js/Gradients.js" />
+        <option value="$PROJECT_DIR$/js/Images.js" />
       </list>
     </option>
   </component>
@@ -298,6 +299,20 @@
     <entry file="file://$PROJECT_DIR$/10-Gradients.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Images.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="953" selection-end="953" vertical-scroll-proportion="0.59345156" vertical-offset="0" max-vertical-offset="733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Images.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="864" selection-end="864" vertical-scroll-proportion="0.5401662" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>

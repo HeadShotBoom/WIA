@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="19-Animation.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19-Animation.htm">
+      <file leaf-file-name="4-Drawing-Paths.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="20" column="40" selection-start="558" selection-end="558" vertical-scroll-proportion="-11.333333" vertical-offset="28" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animation.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/Animation.js">
+      <file leaf-file-name="3- Drawing-States.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3- Drawing-States.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="2" selection-start="581" selection-end="581" vertical-scroll-proportion="0.5227882" vertical-offset="0" max-vertical-offset="746">
+            <state line="16" column="48" selection-start="464" selection-end="464" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5-Drawing-Arcs.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="41" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -76,7 +85,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-1741" />
+    <option name="y" value="194" />
     <option name="width" value="1440" />
     <option name="height" value="843" />
   </component>
@@ -106,6 +116,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,7 +165,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,16 +175,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Follow Along Modernizr/Modernizr/1-Starting" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -185,15 +188,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -215,14 +226,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="843" extended-state="6" />
+    <frame x="-1741" y="194" width="1440" height="843" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298611" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298611" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -247,6 +258,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/19-Animation.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="2" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="16" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="525">
@@ -271,27 +296,6 @@
     <entry file="file://$PROJECT_DIR$/2-Drawing Lines.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="43" selection-start="3193" selection-end="3193" vertical-scroll-proportion="0.8130194" vertical-offset="688" max-vertical-offset="1710">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3- Drawing-States.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="464" selection-end="464" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="40" selection-start="558" selection-end="558" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="41" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
@@ -430,9 +434,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/GlobalAlpha.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="41" selection-start="996" selection-end="996" vertical-scroll-proportion="0.54289544" vertical-offset="0" max-vertical-offset="746">
-          <folding />
-        </state>
+        <state line="27" column="41" selection-start="996" selection-end="996" vertical-scroll-proportion="0.54289544" vertical-offset="0" max-vertical-offset="746" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17-GlobalAlpha.htm">
@@ -451,21 +453,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Compositing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="947" selection-end="947" vertical-scroll-proportion="0.57298774" vertical-offset="0" max-vertical-offset="733">
-          <folding />
-        </state>
+        <state line="28" column="12" selection-start="947" selection-end="947" vertical-scroll-proportion="0.57298774" vertical-offset="0" max-vertical-offset="733" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/19-Animation.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="4" column="8" selection-start="67" selection-end="150" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="581" selection-end="581" vertical-scroll-proportion="0.5227882" vertical-offset="0" max-vertical-offset="746">
+        <state line="4" column="14" selection-start="0" selection-end="174" vertical-scroll-proportion="0.08042896" vertical-offset="0" max-vertical-offset="746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Drawing-Paths.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="40" selection-start="558" selection-end="558" vertical-scroll-proportion="-11.333333" vertical-offset="28" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3- Drawing-States.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="464" selection-end="464" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Drawing-Arcs.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="41" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>

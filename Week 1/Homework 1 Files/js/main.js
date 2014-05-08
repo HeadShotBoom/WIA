@@ -1,10 +1,9 @@
 /*
-     Name:
-     Date:
-     Class & Section:  WIA-####
+     Name: Daniel Carroll
+     Date: 8 May 2014
+     Class & Section:  WIA-#### (I dont know what your looking for here.)
      Comments: "HTML5 Canvas Drawing"
  */
-
 
 /*******************************************
 HTML5 Shape Drawing Activity
@@ -12,7 +11,14 @@ HTML5 Shape Drawing Activity
     2.  Draw out each shape in the sections below
      
 ********************************************/
-
+window.onload = function() {
+    var theCanvas1 = document.getElementById('Canvas1');
+    var theCanvas2 = document.getElementById('Canvas2');
+    var theCanvas3 = document.getElementById('Canvas3');
+    var theCanvas4 = document.getElementById('Canvas4');
+    var theCanvas5 = document.getElementById('Canvas5');
+    var theCanvas6 = document.getElementById('Canvas6');
+    var theCanvas7 = document.getElementById('Canvas7');
 /*******************************************
 FILE SETUP
 
@@ -35,7 +41,19 @@ Reminder - set the style first then draw.
 ********************************************/
 
 //Draw Rectangle here
+if(theCanvas1 && theCanvas1.getContext){
+    var ctx1 = theCanvas1.getContext('2d');
+    if(ctx1){
+        ctx1.fillStyle = 'blue';
+        ctx1.strokeStyle = 'black';
+        ctx1.lineWidth = 5;
 
+        ctx1.fillRect(0,0,50,100);
+        ctx1.strokeRect(0,0,50,100);
+
+
+    }
+}
 
 /*******************************************
 PART 2
@@ -51,7 +69,22 @@ Use the arc method
 
 
 //Draw Circle here
+if(theCanvas2 && theCanvas2.getContext){
+    var ctx2 = theCanvas2.getContext('2d');
+    if(ctx2){
 
+        var degrees = 360;
+        var radians = (degrees/180)*Math.PI;
+        ctx2.fillStyle = 'rgba(100,0,0,0.5)';
+        ctx2.strokeStyle = 'black';
+        ctx2.lineWidth = 10;
+        ctx2.beginPath();
+        ctx2.arc(50,50,20,0,radians,false);
+        ctx2.fill();
+        ctx2.stroke();
+
+    }
+}
 
 
 
@@ -125,3 +158,4 @@ You must use at least 3 different methods.
 // Draw scene here
 
 
+};

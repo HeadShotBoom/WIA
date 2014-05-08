@@ -101,7 +101,29 @@ Height and width and color are up to you.
 
 
 //Draw Star here
+if(theCanvas3 && theCanvas3.getContext){
+    var ctx3 = theCanvas3.getContext('2d');
+    if(ctx3){
+        ctx3.strokeStyle = 'yellow';
+        ctx3.fillStyle = 'red';
+        ctx3.lineWidth = 3;
 
+        ctx3.beginPath();
+        ctx3.moveTo(100,100);
+        ctx3.lineTo(160,100);
+        ctx3.lineTo(180,40);
+        ctx3.lineTo(200,100);
+        ctx3.lineTo(260,100);
+        ctx3.lineTo(215,135);
+        ctx3.lineTo(230,190);
+        ctx3.lineTo(180,160);
+        ctx3.lineTo(130,190);
+        ctx3.lineTo(145,135);
+        ctx3.closePath();
+        ctx3.fill();
+        ctx3.stroke();
+    }
+}
 
 /*******************************************
 PART 4
@@ -117,6 +139,27 @@ Do not overlap any other object.
 
 //Draw Umbrella top here
 
+    if(theCanvas4 && theCanvas4.getContext){
+        var ctx4 = theCanvas4.getContext('2d');
+       if(ctx4){
+           ctx4.strokeStyle = 'black';
+           ctx4.fillStyle = '#363534';
+
+           ctx4.beginPath();
+           ctx4.moveTo(50,200);
+           ctx4.bezierCurveTo(50,100,200,100,210,200);
+           ctx4.bezierCurveTo(200,180,200,180,190,200);
+           ctx4.bezierCurveTo(180,180,180,180,170,200);
+           ctx4.bezierCurveTo(160,180,160,180,150,200);
+           ctx4.bezierCurveTo(140,180,140,180,130,200);
+           ctx4.bezierCurveTo(120,180,120,180,110,200);
+           ctx4.bezierCurveTo(100,180,100,180,90,200);
+           ctx4.bezierCurveTo(80,180,80,180,70,200);
+           ctx4.bezierCurveTo(60,180,60,180,50,200);
+           ctx4.stroke();
+       }
+    }
+
 /*******************************************
 PART 5
 
@@ -126,7 +169,14 @@ Draw text into your canvas.  It can said whatever you would like in any color.
 ********************************************/
 
 //Draw text here
-
+if(theCanvas5 && theCanvas5.getContext){
+    var ctx5 = theCanvas5.getContext('2d');
+    if(ctx5){
+        ctx5.font = '20pt Helvetica';
+        ctx5.fillStyle = 'blue';
+        ctx5.fillText('This is Text', 200, 80);
+    }
+}
 /*******************************************
 PART 6
 

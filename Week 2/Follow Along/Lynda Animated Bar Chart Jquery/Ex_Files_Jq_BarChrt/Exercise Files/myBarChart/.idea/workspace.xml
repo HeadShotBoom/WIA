@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chart.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="chart.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="57" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.8847185" vertical-offset="0" max-vertical-offset="840">
+            <state line="44" column="57" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
               <folding>
                 <marker date="1400021480000" expanded="true" signature="978:1023" placeholder="..." />
                 <marker date="1400021480000" expanded="true" signature="978:983" placeholder="..." />
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chart.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="chart.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/chart.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="13" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="870">
+            <state line="20" column="18" selection-start="880" selection-end="880" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -77,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/chart.html" />
-        <option value="$PROJECT_DIR$/includes/chart.css" />
         <option value="$PROJECT_DIR$/includes/chart.js" />
+        <option value="$PROJECT_DIR$/includes/chart.css" />
       </list>
     </option>
   </component>
@@ -256,20 +256,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/chart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/chart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="57" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.8847185" vertical-offset="0" max-vertical-offset="840">
+        <state line="44" column="57" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
           <folding>
             <marker date="1400021480000" expanded="true" signature="978:1023" placeholder="..." />
             <marker date="1400021480000" expanded="true" signature="978:983" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/chart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="18" selection-start="880" selection-end="880" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="870">
+          <folding />
         </state>
       </provider>
     </entry>

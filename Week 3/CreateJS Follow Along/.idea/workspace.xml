@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/1-Starting/js/Fills.js" />
         <option value="$PROJECT_DIR$/1-Starting/js/Strokes.js" />
         <option value="$PROJECT_DIR$/1-Starting/js/Rectangle.js" />
+        <option value="$PROJECT_DIR$/1-Starting/js/Ellipse.js" />
       </list>
     </option>
   </component>
@@ -278,6 +279,20 @@
     <entry file="file://$PROJECT_DIR$/1-Starting/4D-Rectangles.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Starting/4E-Ellipse.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Starting/js/Ellipse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="57" selection-start="681" selection-end="681" vertical-scroll-proportion="0.422252" vertical-offset="0" max-vertical-offset="746">
           <folding />
         </state>
       </provider>

@@ -37,6 +37,7 @@
         <option value="$PROJECT_DIR$/1-Starting/4B-Fills.htm" />
         <option value="$PROJECT_DIR$/1-Starting/js/Fills.js" />
         <option value="$PROJECT_DIR$/1-Starting/js/Strokes.js" />
+        <option value="$PROJECT_DIR$/1-Starting/js/Rectangle.js" />
       </list>
     </option>
   </component>
@@ -263,6 +264,20 @@
     <entry file="file://$PROJECT_DIR$/1-Starting/4C-Strokes.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Starting/js/Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="63" selection-start="714" selection-end="714" vertical-scroll-proportion="0.44235924" vertical-offset="0" max-vertical-offset="746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Starting/4D-Rectangles.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
           <folding />
         </state>
       </provider>

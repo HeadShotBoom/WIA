@@ -1,4 +1,8 @@
 
+
+
+
+
 if(Modernizr.canvas){
 	//Canvas is supported
 	

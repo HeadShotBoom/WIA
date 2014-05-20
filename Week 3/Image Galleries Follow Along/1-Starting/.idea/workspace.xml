@@ -22,7 +22,35 @@
     <favorites_list name="1-Starting" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="DIYbox.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-DIYbox/DIYbox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lBox.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3-DIYbox/js/lBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="43" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.64343166" vertical-offset="0" max-vertical-offset="746">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lBox.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-DIYbox/css/lBox.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="27" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -34,6 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/1-Lightbox/1A-LightBox.htm" />
         <option value="$PROJECT_DIR$/2-FancyBox/1A-FancyBox.htm" />
+        <option value="$PROJECT_DIR$/3-DIYbox/css/lBox.css" />
+        <option value="$PROJECT_DIR$/3-DIYbox/js/lBox.js" />
       </list>
     </option>
   </component>
@@ -84,20 +114,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="1-Starting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1-Starting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1-Starting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2-FancyBox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,6 +183,27 @@
     <entry file="file://$PROJECT_DIR$/2-FancyBox/1A-FancyBox.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="39" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.76347303" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-DIYbox/DIYbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-DIYbox/css/lBox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="27" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-DIYbox/js/lBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="43" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.64343166" vertical-offset="0" max-vertical-offset="746">
           <folding />
         </state>
       </provider>

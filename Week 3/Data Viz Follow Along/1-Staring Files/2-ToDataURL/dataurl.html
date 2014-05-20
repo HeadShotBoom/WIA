@@ -4,8 +4,8 @@
   <title>Save Canvas As Image</title>
   </head>
   <body>
-  <canvas id="myCanvas" width="578" height="200"></canvas>
- 
+  <canvas id="myCanvas" width="578" height="200" style="display:none;"></canvas>
+    <img id="canvasImg" alt="Right Click NOW">
     <script>
       var canvas = document.getElementById('myCanvas');
       var ctx = canvas.getContext('2d');
@@ -23,7 +23,12 @@
 		ctx.fill();
 		ctx.stroke();
 
-	
+
+        //Save the Canvas image as a data url (png is default)
+        var dataURL = canvas.toDataURL();
+
+        //Set image src to our dataURL variable
+        document.getElementById('canvasImg').src = dataURL;
 
     </script>
   </body>

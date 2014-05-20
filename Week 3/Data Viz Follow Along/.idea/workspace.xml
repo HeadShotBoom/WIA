@@ -34,6 +34,7 @@
       <list>
         <option value="$PROJECT_DIR$/1-Staring Files/1-Tea vs Coffee/Coffee-Tea.htm" />
         <option value="$PROJECT_DIR$/1-Staring Files/1-Tea vs Coffee/js/Tea.js" />
+        <option value="$PROJECT_DIR$/1-Staring Files/2-ToDataURL/dataurl.html" />
       </list>
     </option>
   </component>
@@ -114,29 +115,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1-Tea vs Coffee" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data Viz Follow Along" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data Viz Follow Along" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1-Staring Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1-Tea vs Coffee" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="2-ToDataURL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,6 +187,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="40" selection-start="378" selection-end="378" vertical-scroll-proportion="0.2613941" vertical-offset="0" max-vertical-offset="746">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-Staring Files/2-ToDataURL/dataurl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="69" selection-start="158" selection-end="158" vertical-scroll-proportion="0.12465374" vertical-offset="0" max-vertical-offset="722">
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -33,6 +33,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/1-Lightbox/1A-LightBox.htm" />
+        <option value="$PROJECT_DIR$/2-FancyBox/1A-FancyBox.htm" />
       </list>
     </option>
   </component>
@@ -96,7 +97,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1-Lightbox" />
+              <option name="myItemId" value="2-FancyBox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -159,6 +160,13 @@
     <entry file="file://$PROJECT_DIR$/1-Lightbox/1A-LightBox.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="51" selection-start="807" selection-end="807" vertical-scroll-proportion="0.47783932" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-FancyBox/1A-FancyBox.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="39" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.76347303" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>

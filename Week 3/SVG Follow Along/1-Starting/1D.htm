@@ -20,7 +20,16 @@
 				 
 			</defs>
 			-->
-    		
+    		<defs>
+
+                <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="grad1">
+
+                    <stop offset="0%" style="stop-color:rgb(255,255,0); stop-opacity:1" />
+                    <stop offset="100%" style="stop-color:rgb(255,0,0); stop-opacity:1  " />
+
+                </linearGradient>>
+
+    		</defs>
 			
 			
 			<ellipse
@@ -28,10 +37,23 @@
 					cy="70"
 					rx="85"
 					ry="55"
-					fill="red"
+					fill="url(#grad1)"
+
 					
 				/>
 
+            <defs>
+
+                <radialGradient id="grad2" cx="50%" cy="50%" r="50%" fx="25%" fy="25%" >
+
+                    <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:1" />
+                    <stop offset="100%" style="stop-color:rgb(0,0,255); stop-opacity:1  " />
+
+                </radialGradient>
+
+            </defs>
+
+            <ellipse cx="200" cy="200" rx="85" ry="55" fill="url(#grad2)" />
 	
    			</svg>
 	</body>

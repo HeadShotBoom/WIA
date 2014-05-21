@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Float Label Example Site</title>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.FloatLabel.js"></script>
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/jquery.FloatLabel.css">
+    <link rel="stylesheet" href="css/main.css">
+
+
+
+</head>
+<body>
+<div class="js-float-label-wrapper">
+        <label for="1">Name</label>
+        <input id="1" type="text">
+</div>
+
+<div class="js-float-label-wrapper">
+    <label for="2">Email</label>
+    <input id="2" type="email">
+</div>
+
+<div class="js-float-label-wrapper">
+    <label for="3">Password</label>
+    <input id="3" type="password">
+</div>
+
+
+
+<script>
+    $('.js-float-label-wrapper').FloatLabel();
+</script>
+</body>
+</html>

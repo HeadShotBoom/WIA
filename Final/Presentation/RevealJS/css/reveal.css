@@ -119,11 +119,11 @@ body {
 	opacity: 1;
 }
 	.reveal .slides section .fragment.shrink.visible {
-		-webkit-transform: scale( 0.7 );
-		   -moz-transform: scale( 0.7 );
-		    -ms-transform: scale( 0.7 );
-		     -o-transform: scale( 0.7 );
-		        transform: scale( 0.7 );
+		-webkit-transform: scale( 0.2 );
+		   -moz-transform: scale( 0.2 );
+		    -ms-transform: scale( 0.2 );
+		     -o-transform: scale( 0.2 );
+		        transform: scale( 0.2 );
 	}
 
 .reveal .slides section .fragment.zoom-in {

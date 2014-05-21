@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+.icons #twitter {
+    background-image:url(../images/social_icon.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    height:32px;
+    width:32px;
+    display:block;
+    float:left;
+}
+
+.icons #twitter:hover {
+    background-position: 0 -32px;
+}
+.icons #facebook {
+     background-image:url(../images/social_icon.png);
+     background-repeat: no-repeat;
+     background-position: -32px 0px;
+     height:32px;
+     width:32px;
+     display:block;
+     float:left;
+ }
+
+.icons #facebook:hover {
+    background-position: -32px -32px;
+}
+.icons #ball {
+    background-image:url(../images/social_icon.png);
+    background-repeat: no-repeat;
+    background-position: -64px 0px;
+    height:32px;
+    width:32px;
+    display:block;
+    float:left;
+}
+
+.icons #ball:hover {
+    background-position: -64px -32px;
+}
+.icons #vimeo {
+    background-image:url(../images/social_icon.png);
+    background-repeat: no-repeat;
+    background-position: -96px 0px;
+    height:32px;
+    width:32px;
+    display:block;
+    float:left;
+}
+
+.icons #vimeo:hover {
+    background-position: -96px -32px;
+}
+.icons #youtube {
+    background-image:url(../images/social_icon.png);
+    background-repeat: no-repeat;
+    background-position: -128px 0px;
+    height:32px;
+    width:32px;
+    display:block;
+    float:left;
+}
+
+.icons #youtube:hover {
+    background-position: -128px -32px;
+}

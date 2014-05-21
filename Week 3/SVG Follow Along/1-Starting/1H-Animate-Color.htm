@@ -15,7 +15,17 @@
                 width="100" height="100"
                 fill="blue" stroke="red"
                 stroke-width="5">
-          
+
+                <animate
+                    attributeName="fill"
+                    type="xml"
+                    from="blue"
+                    to="red"
+                    dur="5s"
+                    begin="2s"
+                    repeatCount="indefinite"
+
+                        />
     
             </rect>	
         
@@ -24,8 +34,24 @@
                 width="100" height="100"
                 fill="blue" stroke="red"
                 stroke-width="5">
-        
-        
+
+
+                <animate
+                    attributeName="fill"
+                    type="xml"
+                    values="red;blue;red"
+                    dur="5s"
+                    repeatCount="indefinite"
+                    />
+
+                <animate
+                        attributeName="stroke"
+                        type="xml"
+                        values="blue;red;blue"
+                        dur="5s"
+                        repeatCount="indefinite"
+                        />
+
        		</rect>
         
         

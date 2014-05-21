@@ -16,13 +16,35 @@
                 	Z=close path
 
                 -->
-			
+
+            <path
+
+                    d="M125 20 L50 100 L200 100 Z"
+                    style="fill:none; stroke:lightgrey; stroke-width:2"
+                    id="theMotionPath"
+
+                    />
+
+            <circle cx="" cy="" r="5" fill="red">
+
+                <animateMotion dur="6s" repeatCount="indefinite">
+
+                    <mpath xlink:href="#theMotionPath" />
+
+                </animateMotion>
+
+            </circle>
 			
 		
 		</svg>
        
-      
-        
+      <br />
+    <button onclick="document.getElementById('animatingSVG').pauseAnimations()">Pause</button>
+    <button onclick="document.getElementById('animatingSVG').unpauseAnimations()">Unpause</button>
+    <button onclick="document.getElementById('animatingSVG').setCurrentTime(0)">Restart</button>
+    <button onclick="document.getElementById('animatingSVG').setCurrentTime(3)">Middle</button>
+
+
 
 	</body>
 </html>

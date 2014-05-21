@@ -3,4 +3,34 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 	 
-	 
+
+	 <svg width='300' height='300' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+	 <!--
+
+	 draw a polyline
+	 used to create any shape that consists of only straight lines
+
+	 -->
+
+    	 <polyline
+    	 points='0,40 40,40 40,80 80,80 80,120 120,120 120,160'
+    	 style='fill:none; stroke:black; stroke-width:4'
+
+
+    	 />
+
+    <!--
+    Writing Text
+
+    -->
+
+    <text
+    x='0' y='15'
+    fill='red'
+    >I Love SVG</text>
+
+    <text x='50' y='75' fill='blue' font-family='Verdana' font-size='55'>Hello!</text>
+
+
+	 </svg>

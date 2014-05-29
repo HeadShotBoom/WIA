@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+}
+
+aside {
+    float:left;
+    width: 35%;
+}
+
+aside img {
+    max-width:100%;
+}
+#homepic {
+    max-width:100%;
+    float:right;
+    position:relative;
+    right:200px;
+    top:50px;
+}
+
+nav {
+    margin-top:100px;
+}
+nav a {
+    color:white;
+    text-decoration: none;
+    font-size: 300%;
+    display: block;
+    margin-bottom: 5%;
+    margin-left: 15%;
+}
+aside h3 {
+    color:white;
+    margin-left:15%;
+}
+aside div.map_container {
+    margin-left: 15%;
+}
+section a h1 {
+    color:white;
+    margin-left: 15%;
+}
+section a {
+    text-decoration: none;
+}
+.portfoliopage header img {
+    width:40%;
+}
+.portfoliopage header nav a {
+    float:right;
+    position:relative;
+    top:-200px;
+    left:-300px;
+}
+#blindify {
+    width:100%;
+    margin:10px auto;
+    top:-150px;
+}
+.aboutme {
+    position:relative;
+    left:10%;
+    width:80%
+}
+.aboutme h2 {
+    position:relative;
+    top:100px;
+    color:white;
+}
+.grey {
+    color:darkgrey;
+    font-size: 200%;
+    float:left;
+    position:relative;
+    top:100px;
+    left:40%;
+}
+.blue {
+    color:rgba(151,187,205,1);
+    font-size: 200%;
+    float:left;
+    margin-right:50px;
+    position:relative;
+    top:100px;
+    left:30%;
+    clear:both;
+
+}

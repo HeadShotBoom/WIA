@@ -39,7 +39,7 @@ $(function() {
 
     function done(){
 
-//        console.log('TEST');
+        console.log('TEST');
         var dataURL = canvas.toDataURL();
 
         //Set Source of image tag

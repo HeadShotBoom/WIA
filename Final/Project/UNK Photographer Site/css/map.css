@@ -1,18 +1,17 @@
 .map_container {
-    background: url(../images/template/map.jpg)no-repeat 0 0;
+    background: url(../map/map.jpg)no-repeat 0 0;
     height: 484px;
     width:760px;
     position:relative;
     color: #fff;
     font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
     font-size: 12px;
-    float:right;
     margin: 0 0 0 20px;;
 }
 
 
 .map_container a.dot {
-    background: url(../images/template/dots.png)no-repeat 0 0;
+    background: url(../map/dots.png)no-repeat 0 0;
     height:20px;
     width:20px;
     display:block;
@@ -39,9 +38,10 @@
 .map_container .detail_container {
     position:absolute;
     top:35px;
-    left: 480px;
+    left: 280px;
     width: 240px;
-    height:260px;
+    max-height:100%;
+    /*background-color: #ffffff;*/
 }
 .map_container .city_detail {
     position: absolute;
@@ -53,6 +53,7 @@
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
+    background-color: #ffffff;
 }
 .map_container .city_detail .city_photo {
     float:left;
@@ -72,6 +73,7 @@
     margin: 0 0 0 0;
     font-size: 18px;
     font-weight:bold;
+    color: #2c3748;
 }
 .map_container h3 {
     margin:0 0 12px 0;
@@ -80,6 +82,10 @@
     letter-spacing: 4px;
     color: #2c3748;
 }
+.map_container p {
+    color: #2c3748;
+}
+
 .map_container p {margin: 0 0 12px 0;}
 
 .city_detail_container{display: none;}

@@ -4,7 +4,7 @@ $(function() {
         $('#theDiv').animate({width:'500px'}, 1000);
     });
 
-    $('#text').click(function(){
+    $('#text').hover(function(){
         $('#theDiv').animate({fontSize:"24pt"}, 1000);
     });
 

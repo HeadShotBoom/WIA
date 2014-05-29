@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>UNK Photographers Site</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/normalize.css"/>
+        <link rel="stylesheet" href="css/styles.css"/>
+        <link rel="stylesheet" href="css/map.css"/>
+        <script type="text/javascript" src="js/jquery-1.5.min.js"></script>
+        <script type="text/javascript" src="js/map.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p >You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <aside>
+            <img src="img/Watermark%20Small%20White.png" alt="Company Logo"/>
+            <nav>
+                <a class="navlinks" href="portfolio.html">Portfolio</a>
+                <a class="navlinks" href="about.html">About Me</a>
+            </nav>
+            <section>
+                <a href="#" id="showMap"><h1>Click to see our Studio Spaces</h1></a>
+                <div class="map_container">
+                    <a class="dot" style="top:31px; left:100px;" city='Seattle'  ></a>
+                    <a class="dot" style="top:190px;  left:60px;" city="LA"></a>
+                    <a class="dot" style="top:230px;  left:140px;" city="Vegas"></a>
+                    <a class="dot" style="top:373px; left:360px;" city="SA" ></a>
+                    <a class="dot" style="top:380px; left:610px;" city="orlando"></a>
+                    <a class="dot" style="top:290px; left:560px;" city="ATL"></a>
+                    <a class="dot" style="top:130px;  left:665px;" city="newyorkcity"></a>
+                    <a class="dot" style="top:460px; left:305px;" city="Hawaii"></a>
+
+                    <div class="detail_container" style="display:none;">
+                        <div class="city_detail">
+                            <h3>Choose a city</h3>
+                            <p>Instructions go here..</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="city_detail_container">
+                    <!-- City -->
+                    <div class="city_detail" id="Seattle">
+                        <img class="city_photo" src="img/seattle.jpg" alt="SeaTac" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Seattle</h2>
+                            <h3>Washington</h3>
+                            <p>In Seattle we have a full service studio offering Portrait, Budior, Wedding, Engagement, And Commercial Photography.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="LA">
+                        <img class="city_photo" src="img/LA.jpg" alt="LA, CA" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Los Angeles</h2>
+                            <h3>California</h3>
+                            <p>In LA we have a full service studio offering Portrait, Budior, Wedding, Engagement, And Commercial Photography.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="Vegas">
+                        <img class="city_photo" src="img/vegas.gif" alt="Vegas Baby" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Las Vegas</h2>
+                            <h3>Nevada</h3>
+                            <p>What happens here, stays here. Remember there are a few things that are LEGAL in this state that arent in others, we will photograph you doing these things.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="SA">
+                        <img class="city_photo" src="img/alamo.jpg" alt="San Antonio, TX" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>San Antonio</h2>
+                            <h3>Texas</h3>
+                            <p>In San Antonio we dont do anything, its where we hide our money.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="ATL">
+                        <img class="city_photo" src="img/ATL.jpg" alt="ATL, GA" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Atlanta</h2>
+                            <h3>Georgia</h3>
+                            <p>We only have a studio here because this is where Ludacris establishes base camp for his "Hoes"</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="newyorkcity">
+                        <img class="city_photo" src="img/nyc.jpg" alt="NYC, NY" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>New York City</h2>
+                            <h3>New York</h3>
+                            <p>In NYC we sell I<3 NYC T-Shirts.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="Hawaii">
+                        <img class="city_photo" src="img/hawaii.jpg" alt="Aloha" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Honolulu</h2>
+                            <h3>HI</h3>
+                            <p>This is where we vacation.</p>
+                        </div>
+                    </div>
+
+                    <!-- City -->
+                    <div class="city_detail" id="orlando">
+                        <img class="city_photo" src="img/orlando.jpg" alt="Orlando, FL" width="75" height="75" />
+                        <div class="city_info">
+                            <h2>Orlando</h2>
+                            <h3>Florida</h3>
+                            <p>This is where we run a school of entertainment. We trick kids into spending WAY too much money on an education that will never take them anywhere in fields like "Recording Arts and Creative Writing" so we can concentrate on providing a great education to students that want to learn Web Design, a useful skill. We charge them the same Obscene amount of money.</p>
+                        </div>
+                        <div class="clear_both"></div>
+                    </div>
+                    </div>
+            </section>
+        </aside>
+        <section>
+            <img id="homepic" src="img/me.jpg" alt="I am whatever I say I am"/>
+        </section>
+
+
+        <!--<audio preload="auto" autoplay loop>-->
+
+            <!--<source src="audio/NGGYU.mp3" type="audio/mpeg" />-->
+            <!--<source src="audio/NGGYU.ogg" type="audio/ogg" />-->
+
+            <!--HTML5 Audio is not supported-->
+
+        <!--</audio>-->
+    </body>
+</html>

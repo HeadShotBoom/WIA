@@ -3,8 +3,8 @@ $(function() {
     $('#hide').click(function(){
         $('#theDiv').hide(2000, function(){
             $('#theDiv').css("background-color", "#000");
-        });
-    });
+//        });
+//    });
     $('#show').click(function(){
         $('#theDiv').show(2000);
     });
